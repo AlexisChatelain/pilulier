@@ -11,8 +11,10 @@ Un programme (module client) fonctionne sur Windows pour envoyer l'ordonnance, l
 Nous avons passé chacun un peu moins d'une centaine d'heures sur ce projet. <br>
 
 ## Fichiers disponibles :
-* Organigramme 2.0 Alexis.xls : L'organigramme sur excel de ma partie du projet
+* Commentaire.pdf : Ce que j'ai évoqué lors de la soutenance du projet.
+* Presentation.pdf : Présentation globale du projet
 * Ordonnance_type et transfert txt ok 28052019.xls : fichier excel avec macros pour la gestion des ordonnances et l'envoi de celle-ci vers le serveur
-* module_server.py : le code que nous exécutions sur raspberry qui doit fonctionner en permanence
+* Organigramme 2.0 Alexis.xls : L'organigramme sur excel de ma partie du projet
 * module_client.py : script python lancé automatiquement par Excel 
+* module_server.py : le code que nous exécutions sur raspberry qui doit fonctionner en permanence
 * Vous devez bien-sûr adapter ces 3 derniers fichiers si vous souhaitez utiliser mon code, ils n'étaient fonctionnels que dans la situation exacte de notre projet.
